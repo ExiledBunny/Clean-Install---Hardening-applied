@@ -1,5 +1,4 @@
-# Clean-Install---Hardening-applied
-Pre-entrega 2
+Pre-entrega 2 - Rodrigo Artelino
 
 Mi primer laboratorio seguro de ciberseguridad
 
@@ -26,3 +25,4 @@ Archivos del proyecto
 reporte-tecnico.pdf: informe técnico con descripciones, evidencias y justificaciones.
 
 evidencias: capturas de pantalla de las configuraciones realizadas.
+
